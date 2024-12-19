@@ -1,6 +1,8 @@
 # EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
-## NAME : Praveen.S
-## REGISTRATION NUMBER : 24901060
+## NAME:Praveen.S
+## REGISTRATION NUMBER:24901060
+
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -64,19 +66,22 @@ Y= A⊕B
 
 
 **PROGRAM**
-![Screenshot 2024-11-11 105442](https://github.com/user-attachments/assets/bf8313ef-181c-43a9-829f-7001dfc43bae)
+![Screenshot 2024-12-19 at 14 36 33_59f395fe](https://github.com/user-attachments/assets/50b75806-e4c3-4e6e-b31d-83e33f0daf46)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ 
  
 **Logic symbol & Truthtable**
-![basic gates ss](https://github.com/user-attachments/assets/a364deb8-2d19-462b-8a29-a9b118d76ec1)
+
+![BASIC LOGIC TABLE](https://github.com/user-attachments/assets/f33dc716-a534-4ab0-a482-bf5a8a8833e9)
+![Screenshot 2024-12-19 at 14 38 15_7780fa20](https://github.com/user-attachments/assets/5209851e-fd75-472b-aaad-6a7902414c81)
+
+**RTL realization Output:** 
+![Screenshot 2024-12-19 at 14 37 49_dd7263cd](https://github.com/user-attachments/assets/c5ed216a-1a75-40d3-a4e7-7f080223140e)
 
 
-**RTL realization Output:**
-![basic gates logic](https://github.com/user-attachments/assets/9effe389-61e7-49c6-bdfe-5d38184a2f3b)
-![basic gates code](https://github.com/user-attachments/assets/f0b935e5-5473-456f-b2ba-1206df144b90)
+**Result:**
+Thus To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
 
 
