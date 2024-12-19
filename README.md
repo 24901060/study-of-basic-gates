@@ -85,7 +85,4 @@ Thus To study and verify the truth table of logic gates in Quartus II using Veri
 
 
 
-**Result:**
-![basic gates waveform](https://github.com/user-attachments/assets/7d52bd92-09b6-4f84-b784-a96ca0063650)
-
 
