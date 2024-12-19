@@ -86,6 +86,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 ![basic logic gates waveform](https://github.com/user-attachments/assets/c3062104-cc6a-4741-8d94-5d0fe337d076)
 
-Thus we have verified the truth table of logic gates in Quartus II using Verilog programming.
+Thus we have verified the truth table of logic gates in Quartus II using Verilog  programming.
 
 
